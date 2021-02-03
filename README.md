@@ -14,3 +14,5 @@ Executing the octo push command.
 Executing the octo create release command.
 
 Executing the octo deploy command.
+
+Executing the octo deploy Test command.
